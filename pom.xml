@@ -5,6 +5,10 @@
     <artifactId>Jee_homework_1</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
     <name>Jee_homework_1 Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
